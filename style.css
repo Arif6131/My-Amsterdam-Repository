@@ -1,0 +1,22 @@
+h1{
+    color: goldenrod;
+    background-color: aquamarine;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20PX 20px;
+    padding: 20PX 20px;
+    border: 20px solid yellow;
+    border-radius: 20px;
+}
+#pera{
+    font-family: serif;
+    color: aqua;
+    background-color: crimson;
+    text-align: center;
+    margin: 20px 20px;
+    padding: 20px 20px;
+    border: 20px solid green;
+    border-radius: 50px;
+    font-size: 20px;
+
+}
